@@ -23,5 +23,24 @@ let booleanIsLoggedIn=Boolean(isLoggedIn);
 
 let someNumber=22
 let stringNumber=String(someNumber)
-console.log(stringNumber)
-console.log(typeof stringNumber)
+// console.log(stringNumber)
+// console.log(typeof stringNumber)
+
+//********************operations************* */
+//why  string to number conversion is confusing
+let value=8;
+let negvalue=-value;
+// console.log(negvalue);
+
+let str1="hello"
+let str2=" jyoti"
+let str3=str1+str2;
+// console.log(str3)
+
+//
+// console.log("1"+2);//12
+// console.log(1+"2");//12
+// console.log("1"+2+2);//122
+// console.log(1+1+"2");//22
+
+//prefix and postfix
